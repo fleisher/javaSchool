@@ -1,4 +1,4 @@
-package lesson01;
+package lesson01.task02;
 
 public class Task02 {
     public static void main(String[] args) {
@@ -6,7 +6,7 @@ public class Task02 {
         t.printPerimetr();
         Circle c = new Circle(2, 4, 15);
         c.printPerimetr();
-        Square s = new Square(3, 5, 15);
+        Square s = new Square(3, 5);
         s.printPerimetr();
         Rectangle r  = new Rectangle(4, 6, 20, 40);
         System.out.println(" X = " + r.x + " Y = " + r.y + " Width = " + r.width + " Height = " + r.height);
