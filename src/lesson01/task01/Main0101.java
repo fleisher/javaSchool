@@ -2,7 +2,7 @@ package lesson01.task01;
 
 import java.util.Arrays;
 
-public class MainTask01 {
+public class Main0101 {
     public static void main (String[] args) {
         int[] array = {99, 6, 3, 34, 7, 25, 5, 9, 10, 3};
         System.out.println("Original: " + Arrays.toString(array));

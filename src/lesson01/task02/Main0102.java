@@ -1,6 +1,6 @@
 package lesson01.task02;
 
-public class MainTask02 {
+public class Main0102 {
     public static void main(String[] args) {
         Triangle t = new Triangle(10, 10, 10);
         t.printPerimetr();

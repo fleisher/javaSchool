@@ -1,6 +1,6 @@
 package lesson01.task03;
 
-public class MainTask03 {
+public class Main0103 {
     public static void main (String[] args) {
         Celsius t1 = new Celsius(23.5f);
         System.out.println(t1.temperature + "°C = " + t1.convertToFahrenheit() + "°F");
