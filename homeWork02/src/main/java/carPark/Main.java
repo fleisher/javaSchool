@@ -1,6 +1,6 @@
-package lesson02.task01;
+package carPark;
 
-public class Main0201 {
+public class Main {
     public static void main(String[] args) {
         Car car1 = new Car("BMW", "Sedan");
 
@@ -15,3 +15,4 @@ public class Main0201 {
 
     }
 }
+

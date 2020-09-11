@@ -1,4 +1,4 @@
-package lesson01.task03;
+package temperatureСonverter;
 
 public abstract class Temperature {
     public float temperature;

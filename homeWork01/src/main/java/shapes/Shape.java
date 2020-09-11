@@ -1,4 +1,4 @@
-package lesson01.task02;
+package shapes;
 
 abstract class Shape{
     String name;

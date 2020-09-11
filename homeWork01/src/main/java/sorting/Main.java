@@ -1,8 +1,8 @@
-package lesson01.task01;
+package sorting;
 
 import java.util.Arrays;
 
-public class Main0101 {
+public class Main {
     public static void main (String[] args) {
         int[] array = {99, 6, 3, 34, 7, 25, 5, 9, 10, 3};
         System.out.println("Original: " + Arrays.toString(array));

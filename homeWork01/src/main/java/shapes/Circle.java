@@ -1,4 +1,4 @@
-package lesson01.task02;
+package shapes;
 
 class Circle extends Shape{
     private float r;

@@ -1,6 +1,6 @@
-package lesson01.task02;
+package shapes;
 
-public class Main0102 {
+public class Main {
     public static void main(String[] args) {
         Triangle t = new Triangle(10, 10, 10);
         t.printPerimetr();

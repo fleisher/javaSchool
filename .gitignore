@@ -2,8 +2,23 @@
 ### Example user template template
 ### Example user template
 
-# IntelliJ project files
-.idea
+# .iml files
 *.iml
-out
-gen
+
+## File-based project format:
+*.ipr
+*.iws
+*.ids
+
+#all files in .idea directory
+.idea/
+
+# IntelliJ
+/out/
+
+**/target/
+**/logs/
+**/log/
+*.log
+
+.DS_Store

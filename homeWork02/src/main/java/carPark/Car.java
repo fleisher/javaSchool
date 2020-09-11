@@ -1,6 +1,5 @@
-package lesson02.task01;
+package carPark;
 
-import java.io.CharArrayReader;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
